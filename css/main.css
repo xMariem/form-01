@@ -60,7 +60,7 @@ body:before{
     display: block;
     font-weight: bold;
 }
-.container input[type=text], input[type="email"]{
+.container input[type=text], input[type="password"]{
     padding: 10px 0px;
     background: none;
     border: none;
